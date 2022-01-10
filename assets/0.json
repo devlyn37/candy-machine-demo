@@ -1,0 +1,24 @@
+{
+  "name": "Moment 1",
+  "symbol": "MIJ",
+	"description": "3 pics from when I went to japan a while ago",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "DpCy51tLNKCGKFGkwPuT1orFetzzGtf4bdaqPYDjMU5M",
+        "share": 100
+      }
+    ]
+  },
+	"collection": {
+		"name": "Moments in Japan",
+		"family": "Dev's Travel"
+	}
+}
